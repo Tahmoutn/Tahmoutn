@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tahmoutn
 - 👀 I’m interested in Flutter + Dart
-- 🌱 I’m currently learning Java + Android Studio + NodeJs
+- 🌱 I’m currently learning [JS full-stack,Databases(sql,noSql)].
 - 💞️ I’m looking to collaborate on Build any application
 - 📫 How to reach me ,Contact me at tahmoutn@gmail.com
 
